@@ -63,7 +63,8 @@
 === 研究業績
 
 ==== 学術論文（査読あり）
-. Eisuke Togashi, Masato Miyata：Development of building thermal environment emulator to evaluate the performance of the HVAC system operation, Journal of Building Performance Simulation, 2019, https://doi.org/10.1080/19401493.2019.1601259[DOI]
+. Eisuke Togashi, Masato Miyata, Yoshihide Yamamoto: The first world championship in cybernetic building optimization, Journal of Building Performance Simulation, Volume 13, Issue 3, pp.391-408, 2020, https://doi.org/10.1080/19401493.2020.1741685[DOI]
+. Eisuke Togashi, Masato Miyata: Development of building thermal environment emulator to evaluate the performance of the HVAC system operation, Journal of Building Performance Simulation, Volume 12, Issue 5, pp.663-684, 2019, https://doi.org/10.1080/19401493.2019.1601259[DOI]
 . Masato Miyata：Energy efficiency evaluation of multiple split-system air conditioners with unbalanced load operation for building energy simulation, Earth and Environmental Science, Vol.238, 2019, https://doi.org/10.1088/1755-1315/238/1/012082[DOI]
 . Fukada Ken, Masato Miyata：Validation of Unsteady CFD considering Thermal Load Fluctuation in Office Room, Earth and Environmental Science, Vol.238, 2019, https://doi.org/10.1088/1755-1315/238/1/012033[DOI]
 . Natascha Milesi Ferretti, Masato Miyata, Oliver Baumann：A retrospective on the impact of Annex 40 and Annex 47 research on the international state of building commissioning, Energy and Buildings 158, p54–61, 2018, https://doi.org/10.1016/j.enbuild.2017.08.031[DOI]
