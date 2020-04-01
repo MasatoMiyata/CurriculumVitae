@@ -84,7 +84,7 @@
 
 
 ==== 国際会議論文（査読あり）
-. Masato Miyata, Koji Kurotori, Napoleon Enteria, Hideki Yamaguchi, Takao Sawachi and Yasuo Kuwasawa：Development of Energy Efficiency Estimation Method for Variable Refrigerant Flow Air-Conditioning System with Unbalanced Heat Load Operation, Building Simulation, 2019
+. Masato Miyata, Koji Kurotori, Napoleon Enteria, Hideki Yamaguchi, Takao Sawachi and Yasuo Kuwasawa：Development of Energy Efficiency Estimation Method for Variable Refrigerant Flow Air-Conditioning System with Unbalanced Heat Load Operation, Building Simulation, 2019, http://www.ibpsa.org/proceedings/BS2019/BS2019_210667.pdf[URI]
 . Masato Miyata：Energy Efficiency Evaluation of Multiple Split-System Air Conditioners with Unbalanced Load Operation for Building Energy Simulation, The 4th Asia Conference on International Building Performance Simulation Association, 2018
 . Ken Fukada, Masato Miyata：Validation of Unsteady CFD Considering Thermal Load Fluctuation in Office Room, The 4th Asia Conference on International Building Performance Simulation Association, 2018
 . Tatsuhito Itou, Daisuke Sumiyoshi, Mikiko Nakamura, Hiroaki Okamoto, Masato Miyata, Yasuo Kuwasawa：Study on Improvement of Energy Performance Evaluation Method about Cogeneration Systems for Buildings, The 4th Asia Conference on International Building Performance Simulation Association, 2018
