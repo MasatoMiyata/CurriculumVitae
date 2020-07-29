@@ -63,6 +63,7 @@
 === 研究業績
 
 ==== 学術論文（査読あり）
+. 宮田征門, 平川侑: 省エネ基準適合性判定プログラムの入出力データを活用した非住宅建築物の外皮・設備設計の実態分析（その１）: 新築事務所ビルを対象とした省エネ基準評価結果別の標準的な設計仕様の解明, 日本建築学会環境系論文集, 第85巻, 第777号, 2020. 11（採用決定）
 . Eisuke Togashi, Masato Miyata, Yoshihide Yamamoto: The first world championship in cybernetic building optimization, Journal of Building Performance Simulation, Volume 13, Issue 3, pp.391-408, 2020, https://doi.org/10.1080/19401493.2020.1741685[DOI]
 . Eisuke Togashi, Masato Miyata: Development of building thermal environment emulator to evaluate the performance of the HVAC system operation, Journal of Building Performance Simulation, Volume 12, Issue 5, pp.663-684, 2019, https://doi.org/10.1080/19401493.2019.1601259[DOI]
 . Masato Miyata：Energy efficiency evaluation of multiple split-system air conditioners with unbalanced load operation for building energy simulation, Earth and Environmental Science, Vol.238, 2019, https://doi.org/10.1088/1755-1315/238/1/012082[DOI]
@@ -73,14 +74,14 @@
 . Napoleon ENTERIA, Hideki YAMAGUCHI, Masato MIYATA, Takao SAWACHI, Yasuo KUWASAWA：Performance evaluation of the variable refrigerant flow (VRF) air-conditioning system subjected to partial and unbalanced thermal loadings, Journal of Thermal Science and Technology, Vol.11, No.1, 2016, https://doi.org/10.1299/jtst.2016jtst0013[DOI]
 . 宮田征門, 吉田治典, 安岡稔弘, 竹川忠克, 小林陽一, 金政秀, 天野雄一朗：季間蓄熱機能を有する空調システムのシミュレーションを利用したコミッショニング　第2報 運用開始後3年間に亘る運転最適化プロセス, 空気調和衛生工学会論文集, No.218, pp.19-29, 2015, https://doi.org/10.18948/shase.40.218_19[DOI]
 . 西澤繁毅, 宮田征門, et.al.：改正建築省エネルギー基準に対応した日よけ効果係数算出ツールの開発, 日本建築学会技術報告集, 第21巻 第49号, pp.1111-1116, 2015, https://doi.org/10.3130/aijt.21.1111[DOI]
-. 松下直幹, 李霽憲, 吉田健一, 赤司泰義, 住吉大輔, 宮田征門, 田中誠, 藤村昌弘：空調用熱源システムの部分負荷運転制御法の開発と導入効果の検証, 空気調和衛生工学会論文集, No.164 , pp.39-48, 2010. 11, https://doi.org/10.18948/shase.35.164_39[DOI]
+. 松下直幹, 李霽憲, 吉田健一, 赤司泰義, 住吉大輔, 宮田征門, 田中誠, 藤村昌弘：空調用熱源システムの部分負荷運転制御法の開発と導入効果の検証, 空気調和衛生工学会論文集, No.164, pp.39-48, 2010. 11, https://doi.org/10.18948/shase.35.164_39[DOI]
 . 山口弘雅, 吉田治典, 丹羽英治, 渡邊剛, 宮田征門, 小田久人, 塩谷正樹：コミッショニングのための冷却コイル特性実験とモデル精度の検証, 空気調和・衛生工学会論文集, pp.61-70, No.143, 2009. 2, https://doi.org/10.18948/shase.34.143_61[DOI]
 . 金政秀, 安岡稔弘, 竹川忠克, 名倉義行, 小林陽一, 吉田治典, 宮田征門：季間蓄熱機能を有する空調システムのシミュレーションを利用したコミッショニング, 第1報 土壌蓄熱空調システムの開発と初期性能評価, 空気調和衛生工学会論文集, No.149 , pp.1-9, 2009. 8, https://doi.org/10.18948/shase.34.149_1[DOI]
 . 宮田征門, 吉田治典, 浅田昌彦, 岩田卓郎, 田邊陽一, 柳澤忠宏：実ESCOプロジェクトにおけるベースライン簡易補正手法の比較検討, 空気調和・衛生工学会論文集, pp.7-16, No.119, 2007. 2, https://doi.org/10.18948/shase.32.119_7[DOI]
-. M. Miyata, H. Yoshida, M. Asada, T. Iwata, Y. Tanabe, T. Yanagisawa：Estimation of Energy Baseline by Simulation for On-going Commissioning and Energy Saving Retrofit, Journal of Harbin Institute of Technology, vol.13, pp.370-378, 2006.11, http://hdl.handle.net/1969.1/5355[URI]
-. H. Yamaguchi, M. Miyata, H. Oda, M. Shioya, T. Watanabe, H. Niwa, H. Yoshida：Experimental Study of a Cooling Coil and the Validation of its Simulation Model for the Purpose of Commissioning, Journal of Harbin Institute of Technology, Vol. 13, pp.385-392, 2006.11, http://hdl.handle.net/1969.1/5334[URI]
-. 宮田征門, 吉田治典, 浅田昌彦, 橋口士朗：コミッショニングのための複数VAVユニットの不具合検知・診断手法, 空気調和・衛生工学会論文集, pp.1～9, No.114, 2006. 9, https://doi.org/10.18948/shase.31.114_1[DOI]
-. F. Wang, H. Yoshida, M. Miyata：Total Energy Consumption Model of Fan Subsystem Suitable for Continuous Commissioning, ASHRAE Transactions, Vol. 110, pp. 357-364, 2004
+. M. Miyata, H. Yoshida, M. Asada, T. Iwata, Y. Tanabe, T. Yanagisawa：Estimation of Energy Baseline by Simulation for On-going Commissioning and Energy Saving Retrofit, Journal of Harbin Institute of Technology, vol.13, pp.370-378, 2006. 11, http://hdl.handle.net/1969.1/5355[URI]
+. H. Yamaguchi, M. Miyata, H. Oda, M. Shioya, T. Watanabe, H. Niwa, H. Yoshida：Experimental Study of a Cooling Coil and the Validation of its Simulation Model for the Purpose of Commissioning, Journal of Harbin Institute of Technology, Vol. 13, pp.385-392, 2006. 11, http://hdl.handle.net/1969.1/5334[URI]
+. 宮田征門, 吉田治典, 浅田昌彦, 橋口士朗：コミッショニングのための複数VAVユニットの不具合検知・診断手法, 空気調和・衛生工学会論文集, pp.1-9, No.114, 2006. 9, https://doi.org/10.18948/shase.31.114_1[DOI]
+. F. Wang, H. Yoshida, M. Miyata：Total Energy Consumption Model of Fan Subsystem Suitable for Continuous Commissioning, ASHRAE Transactions, Vol. 110, pp. 357-364, 2004, https://pdfs.semanticscholar.org/8750/9a4fd999f93ead2e410b05d3cefbb75b8e4d.pdf[PDF]
 
 
 ==== 国際会議論文（査読あり）
