@@ -380,6 +380,7 @@
 
 
 ==== 公開研究資料 （主たる執筆者）
+. 建築研究資料第201号：新設地域熱供給プラントの一次エネルギー換算係数に関する研究, R02.11, https://www.kenken.go.jp/japanese/contents/publications/data/201/index.html[PDF]
 . 国総研資料第1107号： 非住宅建築物の外皮・設備設計仕様とエネルギー消費性能の実態調査 - 省エネ基準適合性判定プログラムの入出力データの分析 -, R02.03, http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1107.htm[PDF]
 . 国総研資料第1081号： 空調・換気設備の自動制御システムを対象としたエネルギー消費性能試験法に関する検討, R01.09, http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1081.htm[PDF]
 . 建築研究資料第191号：業務用コージェネレーション設備の性能評価手法の高度化に関する研究, H30.04, http://www.kenken.go.jp/japanese/contents/publications/data/191/index.html[PDF]
