@@ -66,6 +66,7 @@
 === 研究業績
 
 ==== 学術論文（査読あり）
+. 宮田征門: 省エネ基準適合性判定プログラムの入力データを活用した空調熱源・搬送システム設計仕様の実態分析, 空気調和衛生工学会論文集, No.291, pp.39-46, 2021.6,（掲載予定）
 . 宮田征門, 平川侑: 省エネ基準適合性判定プログラムの入出力データを活用した非住宅建築物の外皮・設備設計の実態分析, (その１)新築事務所ビルを対象とした省エネ基準評価結果別の標準的な設計仕様の解明, 日本建築学会環境系論文集, 第85巻, 第777号, pp.859-869, 2020. 11, https://doi.org/10.3130/aije.85.859[DOI]
 . Eisuke Togashi, Masato Miyata, Yoshihide Yamamoto: The first world championship in cybernetic building optimization, Journal of Building Performance Simulation, Volume 13, Issue 3, pp.391-408, 2020, https://doi.org/10.1080/19401493.2020.1741685[DOI]
 . Eisuke Togashi, Masato Miyata: Development of building thermal environment emulator to evaluate the performance of the HVAC system operation, Journal of Building Performance Simulation, Volume 12, Issue 5, pp.663-684, 2019, https://doi.org/10.1080/19401493.2019.1601259[DOI]
