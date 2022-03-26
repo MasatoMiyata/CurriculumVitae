@@ -405,6 +405,7 @@
 . 平成25年省エネルギー基準に準拠した算定・判断の方法及び解説(I.非住宅建築物), 国総研・建研監修, 2013
 
 ==== 記者発表
+. オフィスビル等の省エネ性能に関する最新調査結果を公表 ～脱炭素社会の実現に向けて実態を踏まえた検討が可能に～, 2022.3.10 http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20220310_1.pdf[PDF]
 . オフィスビル等の省エネ性能等の調査結果を公表 ～省エネ施策立案や設計実務に活用可能な情報を提供～, 2021.3.3 http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20210303.pdf[PDF]
 . 「第2回建物性能シミュレーションに関するアジア地域の国際会議」で最優秀論文賞を受賞しました, 2014.12.16, http://www.nilim.go.jp/lab/icg/kokusaikaigi_sim/jyusyou.pdf[PDF]
 
