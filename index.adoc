@@ -69,6 +69,7 @@
 ==== 学術論文（査読あり）
 . 宮田征門: 非住宅建築物の外皮基準適合率と外皮設計仕様の実態分析, 日本建築学会技術報告集, 2022.10（採用決定）
 . 鳴川公彬, 山口容平, 下田吉之, 宮田征門: 省エネ基準適合性判定プログラムの入出力データを活用した非住宅建築物の外皮・設備設計の実態分析,（その２）ロジスティック回帰による規模・立地別の設計仕様の分析, 日本建築学会環境系論文集, 第87巻, 第797号, pp.448-459, 2022.7, https://doi.org/10.3130/aije.87.448[DOI]（採用決定）
+. Masato Miyata, Susumu Hirakawa: Analysis on building envelope and building service equipment design specification using the input and output data from the calculation program to confirm compliance with building energy code (part 1): Identification of the design specification for newly built offices in Japan according to the evaluation result of the building energy code, Japan Architectural Review (Translated Paper), pp.1–12, 2022.4, https://doi.org/10.1002/2475-8876.12265http://doi.org/10.1002/2475-8876.12265[DOI]
 . 宮田征門: 共同住宅共用部の設備設計仕様の実態分析, 日本建築学会技術報告集, 第28巻 第68号, pp.314-319, 2022.2, https://doi.org/10.3130/aijt.28.314[DOI]
 . 芹川真緒, 佐藤誠, 宮田征門: 表面温度応答の応答係数の算出方法に係る検討, 日本建築学会技術報告集, 第28巻 第68号, pp.273-278, 2022.2, https://doi.org/10.3130/aijt.28.273[DOI]
 . 宮田征門: 省エネ基準適合性判定プログラムの入力データを活用した空調熱源・搬送システム設計仕様の実態分析, 空気調和衛生工学会論文集, Vol.46, No.291, pp.39-46, 2021.6, https://ci.nii.ac.jp/naid/40022618682/[CiNii]
