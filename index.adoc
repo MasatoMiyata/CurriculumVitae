@@ -526,14 +526,14 @@
 . つくばエキスポセンター ミニ講演：住まいで使うエネルギーについて, 2013.11.23
 . つくば市立手代木南小学校（出前講座）：住まいで使うエネルギー, 2013.7.26
 
-==== 記者発表
+=== 記者発表
 . 2024年の省エネ基準2割強化に向けて設計支援情報を提供 ～オフィスビル等の省エネ性能の分析結果(過去４年分)を公表～, 2023.8.29, http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20230829.pdf[PDF]
 . オフィスビル等の省エネ性能に関する最新調査結果を公表 ～建築物の脱炭素化に関する施策検討を支援～, 2022.11.1, http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20221101.pdf[PDF]
 . オフィスビル等の省エネ性能に関する最新調査結果を公表 ～脱炭素社会の実現に向けて実態を踏まえた検討が可能に～, 2022.3.10, http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20220310_1.pdf[PDF]
 . オフィスビル等の省エネ性能等の調査結果を公表 ～省エネ施策立案や設計実務に活用可能な情報を提供～, 2021.3.3, http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20210303.pdf[PDF]
 . 「第2回建物性能シミュレーションに関するアジア地域の国際会議」で最優秀論文賞を受賞しました, 2014.12.16, http://www.nilim.go.jp/lab/icg/kokusaikaigi_sim/jyusyou.pdf[PDF]
 
-==== 報道
+=== 報道
 . 清水建設: AIでZEBの設計業務を代替！～設計業務の効率化と高度化という背反する課題を解決へ～, 2023.08.21, https://www.shimz.co.jp/company/about/news-release/2023/2023023.html[link]
 . 日刊建設工業新聞：清水建設/ZEB設計案作成AIを開発、効率化と高度化を両立, 2023.08.21, https://www.decn.co.jp/?p=155700[link]
 
