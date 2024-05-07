@@ -69,6 +69,7 @@
 === 研究業績
 
 ==== 学術論文（査読あり）
+. Eisuke Togashia, Taiki Kobayashi, Hajime Ogata, Hiroyuki Hatada, Hisao Ayame, Katsuyuki Edahiro, Makoto Satoh, Masanari Ukai, Masashi Momota, Masato Miyata, Niccolo Giannetti, Sei Nagashima, Takahiro Ueno, Tomoya Katayama, Yohei Yamaguchi, Yuichiro Iio: Development of a variable refrigerant flow system emulator to host the second World Championship in Cybernetic Building Optimization, Journal of Building Performance Simulation, pp.1-30, 2024.5, https://doi.org/10.1080/19401493.2024.2346528[DOI]
 . 芹川真緒, 辻丸のりえ, 佐藤誠, 住吉大輔, 宮田征門, 柳原隆司: 温暖地におけるビル用マルチエアコンの稼働実態調査, 空気調和・衛生工学会論文集, Vol.48, No.319, pp.33-40, 2023.10,
 . 宮田征門: 非住宅建築物の外皮基準適合率と外皮設計仕様の実態分析, 日本建築学会技術報告集, 第28巻 第70号, pp.1307-1312, 2022.10, https://doi.org/10.3130/aijt.28.1307[DOI]
 . 鳴川公彬, 山口容平, 下田吉之, 宮田征門: 省エネ基準適合性判定プログラムの入出力データを活用した非住宅建築物の外皮・設備設計の実態分析,（その２）ロジスティック回帰による規模・立地別の設計仕様の分析, 日本建築学会環境系論文集, 第87巻, 第797号, pp.448-459, 2022.7, https://doi.org/10.3130/aije.87.448[DOI]
