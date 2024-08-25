@@ -1,0 +1,48 @@
+site_name: 宮田 征門の履歴書
+site_description: 宮田征門の履歴書です。
+
+theme:
+  name: material
+  language: ja
+  icon:
+    logo: material/school
+    repo: fontawesome/brands/git-alt
+  palette:
+    - schema: default
+      primary: teal
+      accent: red
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - toc.integrate     # 目次を右側ではなく、ページ内に表示
+    - navigation.expand   # サイドバーのナビゲーションを展開
+    - navigation.instant  # ページ遷移を高速化
+  font:
+    text: Roboto       # 本文用フォント
+    code: Roboto Mono  # コードブロック用フォント
+
+extra_css:
+  - assets/custom.css
+  - https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap
+  - https://fonts.googleapis.com/css?family=Roboto+Mono:400,700&display=swap
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - admonition:
+  - codehilite:
+      linenums: true
+      guess_lang: false
+      use_pygments: false
+      noclasses: true
+      
+# Copyright
+copyright: 'Copyright © 2019 - 2024 : Masato Miyata'
