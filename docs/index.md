@@ -14,7 +14,7 @@
 * 2015年4月 国土交通省国土技術政策総合研究所 住宅研究部 建築環境研究室 主任研究官（現在に至る）
 
 ## 博士論文
-* 空調システムのモデルベースによる検化に関する研究 : [京都大学学術情報リポジトリ](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/57288/1/D_Miyata_Masato.pdf)
+* 空調システムのモデルベースによる検証と最適化に関する研究  : [京都大学学術情報リポジトリ](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/57288/1/D_Miyata_Masato.pdf)
 
 ## 主な研究テーマ
 * 非住宅建築物のエネルギーシミュレーションの開発
