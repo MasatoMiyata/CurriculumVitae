@@ -559,11 +559,12 @@
 1. つくば市立手代木南小学校（出前講座）：住まいで使うエネルギー, 2013.7.26
 
 ## 講義（国際ワークショップ等）
-1. ASEAN Japan Energy Efficiency Partnership, Energy Conservation Workshop: Building Energy Standard for Commercial Buildings in Japan, 2023.12.11
-1. AOTS（海外産業人材育成協会）, The Workshop on Dissemination and Promotion of ZEB and ZEB Family Concept, Features and Characteristics of Building Energy Standards for Commercial Buildings, 2019.1.30
-1. AOTS（海外産業人材育成協会）, Dissemination and Promotion of ZEB and ZEB Family concept: Features and Characteristics of Building Energy Standards for Commercial Buildings, 2017.12.20
-1. ASEAN ECAP9 SEforALL Workshop: Features and Characteristics of New Building Energy Standards of Japan, 2017.2.14
-1. APEC Workshop on Net Zero Energy Building: New Energy Standard for Commercial Buildings in Japan and its application to NZEB design, 2013.10.30
+1. ASEAN Japan Energy Efficiency Partnership, Energy Conservation Workshop (ECAP33): Building Energy Code for Commercial Buildingsin Japan, 2024.10.28
+2. ASEAN Japan Energy Efficiency Partnership, Energy Conservation Workshop (ECAP32): Building Energy Standard for Commercial Buildings in Japan, 2023.12.11
+3. AOTS（海外産業人材育成協会）, The Workshop on Dissemination and Promotion of ZEB and ZEB Family Concept, Features and Characteristics of Building Energy Standards for Commercial Buildings, 2019.1.30
+4. AOTS（海外産業人材育成協会）, Dissemination and Promotion of ZEB and ZEB Family concept: Features and Characteristics of Building Energy Standards for Commercial Buildings, 2017.12.20
+5. ASEAN ECAP9 SEforALL Workshop: Features and Characteristics of New Building Energy Standards of Japan, 2017.2.14
+6. APEC Workshop on Net Zero Energy Building: New Energy Standard for Commercial Buildings in Japan and its application to NZEB design, 2013.10.30
 
 ## 記者発表
 1. オフィスビル等の省エネ性能に関する最新調査結果を公表～「ZEB 基準の水準」の達成率は19.4% ～, 2024.2.19, [https://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20240219.pdf](https://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20240219.pdf)
