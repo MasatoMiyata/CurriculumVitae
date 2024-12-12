@@ -73,7 +73,7 @@
 11. Eisuke Togashi, Masato Miyata, Yoshihide Yamamoto: The first world championship in cybernetic building optimization, Journal of Building Performance Simulation, Volume 13, Issue 3, pp.391-408, 2020, [https://doi.org/10.1080/19401493.2020.1741685](https://doi.org/10.1080/19401493.2020.1741685)
 12. Eisuke Togashi, Masato Miyata: Development of building thermal environment emulator to evaluate the performance of the HVAC system operation, Journal of Building Performance Simulation, Volume 12, Issue 5, pp.663-684, 2019, [https://doi.org/10.1080/19401493.2019.1601259](https://doi.org/10.1080/19401493.2019.1601259)
 13. Masato Miyata：Energy efficiency evaluation of multiple split-system air conditioners with unbalanced load operation for building energy simulation, Earth and Environmental Science, Vol.238, 2019, [https://doi.org/10.1088/1755-1315/238/1/012082](https://doi.org/10.1088/1755-1315/238/1/012082)
-14. Fukada Ken, Masato Miyata：Validation of Unsteady CFD considering Thermal Load Fluctuation in Office Room, Earth and Environmental Science, Vol.238, 2019, https://doi.org/10.1088/1755-1315/238/1/012033]()
+14. Fukada Ken, Masato Miyata：Validation of Unsteady CFD considering Thermal Load Fluctuation in Office Room, Earth and Environmental Science, Vol.238, 2019, [https://doi.org/10.1088/1755-1315/238/1/012033]()
 15. Natascha Milesi Ferretti, Masato Miyata, Oliver Baumann：A retrospective on the impact of Annex 40 and Annex 47 research on the international state of building commissioning, Energy and Buildings 158, p54–61, 2018, [https://doi.org/10.1016/j.enbuild.2017.08.031](https://doi.org/10.1016/j.enbuild.2017.08.031)
 16. Napoleon ENTERIA, Hideki YAMAGUCHI, Masato MIYATA, Takao SAWACHI, Yasuo KUWASAWA：Performance evaluation of the variable refrigerant flow (VRF) air-conditioning system during the heating-defrosting cyclic operation, Journal of Thermal Science and Technology, Vol.12, No.2, 2017, [https://doi.org/10.1299/jtst.2017jtst0035](https://doi.org/10.1299/jtst.2017jtst0035)
 17. Napoleon ENTERIA, Hideki YAMAGUCHI, Masato MIYATA, Takao SAWACHI, Yasuo KUWASAWA：Performance evaluation of the variable refrigerant flow (VRF) air-conditioning system subjected to partial loadings at different outdoor air temperatures, Journal of Thermal Science and Technology, Vol.11, No.2, 2016, [https://doi.org/10.1299/jtst.2016jtst0029](https://doi.org/10.1299/jtst.2016jtst0029)
@@ -91,22 +91,24 @@
 
 
 ### 国際会議論文（査読あり）
+1. Masato Miyata, Yasuhiro Miki, Shigeki Nishizawa: ZEB Retrofit Planning Methodology for Existing Office Buildings Using Building Energy Simulation, The 5th Asia Conference of International Building Performance Simulation Association 2024, 2024.12
+1. Funa Shibahara, Kozo Takase, Tatsuhiko Nakao, Nozomu Yoshizawa, Koichiro Saito, Makoto Satoh, Yoshihiko Akamine, Shigeki Nishizawa, Keiichiro Taniguchi, Masato Miyata: Evaluation of the solar shading of various combinations of shading materials and blinds, The 5th Asia Conference of International Building Performance Simulation Association 2024, 2024.12
 1. Masato Miyata, Koji Kurotori, Napoleon Enteria, Hideki Yamaguchi, Takao Sawachi and Yasuo Kuwasawa：Development of Energy Efficiency Estimation Method for Variable Refrigerant Flow Air-Conditioning System with Unbalanced Heat Load Operation, Building Simulation, 2019, [http://dx.doi.org/10.26868/25222708.2019.210667](http://dx.doi.org/10.26868/25222708.2019.210667)
-1. Masato Miyata：Energy Efficiency Evaluation of Multiple Split-System Air Conditioners with Unbalanced Load Operation for Building Energy Simulation, The 4th Asia Conference on International Building Performance Simulation Association, 2018
-1. Ken Fukada, Masato Miyata：Validation of Unsteady CFD Considering Thermal Load Fluctuation in Office Room, The 4th Asia Conference on International Building Performance Simulation Association, 2018
-1. Tatsuhito Itou, Daisuke Sumiyoshi, Mikiko Nakamura, Hiroaki Okamoto, Masato Miyata, Yasuo Kuwasawa：Study on Improvement of Energy Performance Evaluation Method about Cogeneration Systems for Buildings, The 4th Asia Conference on International Building Performance Simulation Association, 2018
-1. Masato Miyata, Takao Sawachi, Yasuo Kuwasawa, Yasuhiro Miki, Yoshihiko Akamine and Hideki Yamaguchi：Web-based simulation tool for compliance with 2013 energy efficiency standard for commercial buildings in Japan, Building Simulation, pp.188-195, 2015, [https://publications.ibpsa.org/conference/paper/?id=asim2014_024_a3-28-359](https://publications.ibpsa.org/conference/paper/?id=asim2014_024_a3-28-359)
-1. Masato Miyata, Takao Sawachi, Yasuo Kuwasawa, Yasuhiro Miki, Yoshihiko Akamine and Hideki Yamaguchi：Web-based Simulation Tool for the 2013 Energy Efficiency Standard for Commercial Buildings in Japan, The 2nd Asia Conference on International Building Performance Simulation Association, 2014
-1. Hideki Yamaguchi, Masato Miyata, Takao Sawachi, Kosuke Ohno, Kiyoshi Saito: Efficiency Evaluation of Packaged Air-Conditioning System with Different Patterns of Compressor Operation, The 2nd Asia Conference on International Building Performance Simulation Association, 2014
-1. E. Tanaka, M. Mukai, K. Matusako, Y. Kodera, S. Maeda, Y. Akashi, H. Yoda, T. Watanabe, M. Miyata：Development of Database for Energy Consumption of Non-residential Buildings in Kyushu, the Proceedings of the Yellow Sea Rim International Exchange Meeting on Building Environment and Energy 2009, pp.79-86, 2009. 1
-1. Masato Miyata, H. Yoshida, M. Aono, T. Yasuoka, T. Takegawa, Y. Nagura, Y. Kobayashi, J. Kim：On-going Commissioning of HVAC System with Seasonal Ground Thermal Storage Using Simulation, the Proceedings of the Yellow Sea Rim International Exchange Meeting on Building Environment and Energy 2009, pp.143-154, 2009. 1
-1. Masato Miyata, H. Yoshida, H. Yoshida：Development of an Information Flow Mechanism for Commissioning, International Conference for Enhanced Building Operations, No. 8, pp. 55(1)-55(8), 2008.10
-1. Masato Miyata, H. Yoshida, T. Iwata, Z. Zhang, Y. Tanabe, T. Yanagisawa：Application and Verification of Energy Baseline Estimation Method by Simulation, Building Simulation, pp.1968-1974, 2007.9
-1. Masato Miyata, H. Yoshida, T. Yasuoka, T. Takegawa, Y. Nagura, Y. Kobayashi, J. Kim：Optimal Operation for HVAC System with Seasonal Underground Thermal Storage System, Building Simulation, pp.1991-1998, 2007.9
-1. Masato Miyata, H. Yoshida, T. Yasuoka, T. Takegawa, Y. Nagura, Y. Kobayashi, J. Kim：Development of a Simulation Tool for the Commissioning of a HVAC system with Seasonal Thermal Storage, National conference on Building Commissioning, Chicago, 2007.5
-1. Masato Miyata, H. Yoshida, M. Asada, K. Fujii, S. Hashiguchi：Estimation of Excessive HVAC Energy Consumption due to faulty VAV units, Building Simulation, pp.777-786, 2005.8
-1. Masato Miyata, H. Yoshida, M. Asada, F. Wang, S. Hashiguchi：Fault Detection and Diagnosis Method for VAV Terminal Units, International Conference of Enhanced Building Operation, PF-52, 2004.10
-1. Masato Miyata, F. Wang, H. Yoshida, M. Tsubaki, K. Itou：Experimental Study on Model-based Commissioning Method of VAV Systems in a Real Building, International Conference of Enhanced Building Operation, 2003.10
+2. Masato Miyata：Energy Efficiency Evaluation of Multiple Split-System Air Conditioners with Unbalanced Load Operation for Building Energy Simulation, The 4th Asia Conference on International Building Performance Simulation Association, 2018
+3. Ken Fukada, Masato Miyata：Validation of Unsteady CFD Considering Thermal Load Fluctuation in Office Room, The 4th Asia Conference on International Building Performance Simulation Association, 2018
+4. Tatsuhito Itou, Daisuke Sumiyoshi, Mikiko Nakamura, Hiroaki Okamoto, Masato Miyata, Yasuo Kuwasawa：Study on Improvement of Energy Performance Evaluation Method about Cogeneration Systems for Buildings, The 4th Asia Conference on International Building Performance Simulation Association, 2018
+5. Masato Miyata, Takao Sawachi, Yasuo Kuwasawa, Yasuhiro Miki, Yoshihiko Akamine and Hideki Yamaguchi：Web-based simulation tool for compliance with 2013 energy efficiency standard for commercial buildings in Japan, Building Simulation, pp.188-195, 2015, [https://publications.ibpsa.org/conference/paper/?id=asim2014_024_a3-28-359](https://publications.ibpsa.org/conference/paper/?id=asim2014_024_a3-28-359)
+6. Masato Miyata, Takao Sawachi, Yasuo Kuwasawa, Yasuhiro Miki, Yoshihiko Akamine and Hideki Yamaguchi：Web-based Simulation Tool for the 2013 Energy Efficiency Standard for Commercial Buildings in Japan, The 2nd Asia Conference on International Building Performance Simulation Association, 2014
+7. Hideki Yamaguchi, Masato Miyata, Takao Sawachi, Kosuke Ohno, Kiyoshi Saito: Efficiency Evaluation of Packaged Air-Conditioning System with Different Patterns of Compressor Operation, The 2nd Asia Conference on International Building Performance Simulation Association, 2014
+8. E. Tanaka, M. Mukai, K. Matusako, Y. Kodera, S. Maeda, Y. Akashi, H. Yoda, T. Watanabe, M. Miyata：Development of Database for Energy Consumption of Non-residential Buildings in Kyushu, the Proceedings of the Yellow Sea Rim International Exchange Meeting on Building Environment and Energy 2009, pp.79-86, 2009. 1
+9. Masato Miyata, H. Yoshida, M. Aono, T. Yasuoka, T. Takegawa, Y. Nagura, Y. Kobayashi, J. Kim：On-going Commissioning of HVAC System with Seasonal Ground Thermal Storage Using Simulation, the Proceedings of the Yellow Sea Rim International Exchange Meeting on Building Environment and Energy 2009, pp.143-154, 2009. 1
+10. Masato Miyata, H. Yoshida, H. Yoshida：Development of an Information Flow Mechanism for Commissioning, International Conference for Enhanced Building Operations, No. 8, pp. 55(1)-55(8), 2008.10
+11. Masato Miyata, H. Yoshida, T. Iwata, Z. Zhang, Y. Tanabe, T. Yanagisawa：Application and Verification of Energy Baseline Estimation Method by Simulation, Building Simulation, pp.1968-1974, 2007.9
+12. Masato Miyata, H. Yoshida, T. Yasuoka, T. Takegawa, Y. Nagura, Y. Kobayashi, J. Kim：Optimal Operation for HVAC System with Seasonal Underground Thermal Storage System, Building Simulation, pp.1991-1998, 2007.9
+13. Masato Miyata, H. Yoshida, T. Yasuoka, T. Takegawa, Y. Nagura, Y. Kobayashi, J. Kim：Development of a Simulation Tool for the Commissioning of a HVAC system with Seasonal Thermal Storage, National conference on Building Commissioning, Chicago, 2007.5
+14. Masato Miyata, H. Yoshida, M. Asada, K. Fujii, S. Hashiguchi：Estimation of Excessive HVAC Energy Consumption due to faulty VAV units, Building Simulation, pp.777-786, 2005.8
+15. Masato Miyata, H. Yoshida, M. Asada, F. Wang, S. Hashiguchi：Fault Detection and Diagnosis Method for VAV Terminal Units, International Conference of Enhanced Building Operation, PF-52, 2004.10
+16. Masato Miyata, F. Wang, H. Yoshida, M. Tsubaki, K. Itou：Experimental Study on Model-based Commissioning Method of VAV Systems in a Real Building, International Conference of Enhanced Building Operation, 2003.10
 
 
 ### 国内学会発表論文
@@ -494,6 +496,7 @@
 1. 松下直幹, LEE Je Hyeon, 吉田健一, 赤司泰義, 住吉大輔, 宮田征門: 大学施設における空調用熱源システムのコミッショニング,都市・建築学研究 九州大学大学院人間環境学研究院紀要, No.16, pp.119-124, 2009
 
 ## 依頼/招待講演（業界団体等）
+1. 空気調和衛生工学会・北信越支部 技術講習会：非住宅建築物の省エネ基準・ZEB基準適合率の現状と今後の展望, 2024.12.10
 1. グリーン購入ネットワーク GPN再エネ電力利用拡大検討者向けセミナー：オフィスビル等の省エネ性能の動向, 2024.11.22
 1. 一般財団法人住宅・建築SGDs推進センター シンポジウム「The BEST Program スマートウェルネスとネットゼロ社会に向けたBESTの活用」：ホールライフカーボン算定におけるシミュレーションツールの役割, 2024.8.1
 2. 一般社団法人日本ガス協会「公共施設におけるガスZEB勉強会」：ZEBの普及に向けた動きと今後の展望, 2024.7.24
@@ -558,8 +561,9 @@
 1. つくばエキスポセンター ミニ講演：住まいで使うエネルギーについて, 2013.11.23
 1. つくば市立手代木南小学校（出前講座）：住まいで使うエネルギー, 2013.7.26
 
-## 講義（国際ワークショップ等）
-1. ASEAN Japan Energy Efficiency Partnership, Energy Conservation Workshop (ECAP33): Building Energy Code for Commercial Buildingsin Japan, 2024.10.28
+## 基調講演・講義（国際ワークショップ等）
+1. ASim2024 Plenary "Challenges and Perspectives for the Futures": Advancing Building Energy Regulations in Japan Through Energy Simulation, 2024.12.10
+1. ASEAN Japan Energy Efficiency Partnership, Energy Conservation Workshop (ECAP33): Building Energy Code for Commercial Buildings in Japan, 2024.10.28
 2. ASEAN Japan Energy Efficiency Partnership, Energy Conservation Workshop (ECAP32): Building Energy Standard for Commercial Buildings in Japan, 2023.12.11
 3. AOTS（海外産業人材育成協会）, The Workshop on Dissemination and Promotion of ZEB and ZEB Family Concept, Features and Characteristics of Building Energy Standards for Commercial Buildings, 2019.1.30
 4. AOTS（海外産業人材育成協会）, Dissemination and Promotion of ZEB and ZEB Family concept: Features and Characteristics of Building Energy Standards for Commercial Buildings, 2017.12.20
