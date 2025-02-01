@@ -59,35 +59,36 @@
 
 ### 学術論文（査読あり）
 1. 宮田征門: 非住宅建築物における太陽光発電設備の導入率及び設計仕様の実態分析, 日本建築学会技術報告集, 2025年6月掲載予定
-1. 平島重敏, 西川祥子, 秋元孝之, 芹川真緒, 宮田征門: 窓ガラスの熱性能が非住宅建築物のオペレーショナルカーボンに与える影響の分析, 日本建築学会技術報告集, 2025年2月掲載予定
-1. 西川祥子, 平島重敏, 秋元孝之, 芹川真緒, 宮田征門: 窓ガラスの熱性能が住宅のオペレーショナルカーボンに与える影響の分析, 日本建築学会技術報告集, 2025年2月掲載予定
-1. Eisuke Togashia, Taiki Kobayashi, Hajime Ogata, Hiroyuki Hatada, Hisao Ayame, Katsuyuki Edahiro, Makoto Satoh, Masanari Ukai, Masashi Momota, Masato Miyata, Niccolo Giannetti, Sei Nagashima, Takahiro Ueno, Tomoya Katayama, Yohei Yamaguchi, Yuichiro Iio: Development of a variable refrigerant flow system emulator to host the second World Championship in Cybernetic Building Optimization, Journal of Building Performance Simulation, pp.1-30, 2024.5, [https://doi.org/10.1080/19401493.2024.2346528](https://doi.org/10.1080/19401493.2024.2346528)
-3. 芹川真緒, 辻丸のりえ, 佐藤誠, 住吉大輔, 宮田征門, 柳原隆司: 温暖地におけるビル用マルチエアコンの稼働実態調査, 空気調和・衛生工学会論文集, Vol.48, No.319, pp.33-40, 2023.10,
-4. 宮田征門: 非住宅建築物の外皮基準適合率と外皮設計仕様の実態分析, 日本建築学会技術報告集, 第28巻 第70号, pp.1307-1312, 2022.10, [https://doi.org/10.3130/aijt.28.1307](https://doi.org/10.3130/aijt.28.1307)
-5. 鳴川公彬, 山口容平, 下田吉之, 宮田征門: 省エネ基準適合性判定プログラムの入出力データを活用した非住宅建築物の外皮・設備設計の実態分析,（その２）ロジスティック回帰による規模・立地別の設計仕様の分析, 日本建築学会環境系論文集, 第87巻, 第797号, pp.448-459, 2022.7, [https://doi.org/10.3130/aije.87.448](https://doi.org/10.3130/aije.87.448)
-6. Masato Miyata, Susumu Hirakawa: Analysis on building envelope and building service equipment design specification using the input and output data from the calculation program to confirm compliance with building energy code (part 1): Identification of the design specification for newly built offices in Japan according to the evaluation result of the building energy code, Japan Architectural Review (Translated Paper), pp.1–12, 2022.4, [https://doi.org/10.1002/2475-8876.12265](https://doi.org/10.1002/2475-8876.12265)
-7. 宮田征門: 共同住宅共用部の設備設計仕様の実態分析, 日本建築学会技術報告集, 第28巻 第68号, pp.314-319, 2022.2, [https://doi.org/10.3130/aijt.28.314](https://doi.org/10.3130/aijt.28.314)
-8. 芹川真緒, 佐藤誠, 宮田征門: 表面温度応答の応答係数の算出方法に係る検討, 日本建築学会技術報告集, 第28巻 第68号, pp.273-278, 2022.2, [https://doi.org/10.3130/aijt.28.273](https://doi.org/10.3130/aijt.28.273)
-9. 宮田征門: 省エネ基準適合性判定プログラムの入力データを活用した空調熱源・搬送システム設計仕様の実態分析, 空気調和・衛生工学会論文集, Vol.46, No.291, pp.39-46, 2021.6, [https://doi.org/10.18948/shase.46.291_39](https://doi.org/10.18948/shase.46.291_39)
-10. 宮田征門, 平川侑: 省エネ基準適合性判定プログラムの入出力データを活用した非住宅建築物の外皮・設備設計の実態分析, (その１)新築事務所ビルを対象とした省エネ基準評価結果別の標準的な設計仕様の解明, 日本建築学会環境系論文集, 第85巻, 第777号, pp.859-869, 2020.11, [https://doi.org/10.3130/aije.85.859](https://doi.org/10.3130/aije.85.859)
-11. Eisuke Togashi, Masato Miyata, Yoshihide Yamamoto: The first world championship in cybernetic building optimization, Journal of Building Performance Simulation, Volume 13, Issue 3, pp.391-408, 2020, [https://doi.org/10.1080/19401493.2020.1741685](https://doi.org/10.1080/19401493.2020.1741685)
-12. Eisuke Togashi, Masato Miyata: Development of building thermal environment emulator to evaluate the performance of the HVAC system operation, Journal of Building Performance Simulation, Volume 12, Issue 5, pp.663-684, 2019, [https://doi.org/10.1080/19401493.2019.1601259](https://doi.org/10.1080/19401493.2019.1601259)
-13. Masato Miyata：Energy efficiency evaluation of multiple split-system air conditioners with unbalanced load operation for building energy simulation, Earth and Environmental Science, Vol.238, 2019, [https://doi.org/10.1088/1755-1315/238/1/012082](https://doi.org/10.1088/1755-1315/238/1/012082)
-14. Fukada Ken, Masato Miyata：Validation of Unsteady CFD considering Thermal Load Fluctuation in Office Room, Earth and Environmental Science, Vol.238, 2019, [https://doi.org/10.1088/1755-1315/238/1/012033]()
-15. Natascha Milesi Ferretti, Masato Miyata, Oliver Baumann：A retrospective on the impact of Annex 40 and Annex 47 research on the international state of building commissioning, Energy and Buildings 158, p54–61, 2018, [https://doi.org/10.1016/j.enbuild.2017.08.031](https://doi.org/10.1016/j.enbuild.2017.08.031)
-16. Napoleon ENTERIA, Hideki YAMAGUCHI, Masato MIYATA, Takao SAWACHI, Yasuo KUWASAWA：Performance evaluation of the variable refrigerant flow (VRF) air-conditioning system during the heating-defrosting cyclic operation, Journal of Thermal Science and Technology, Vol.12, No.2, 2017, [https://doi.org/10.1299/jtst.2017jtst0035](https://doi.org/10.1299/jtst.2017jtst0035)
-17. Napoleon ENTERIA, Hideki YAMAGUCHI, Masato MIYATA, Takao SAWACHI, Yasuo KUWASAWA：Performance evaluation of the variable refrigerant flow (VRF) air-conditioning system subjected to partial loadings at different outdoor air temperatures, Journal of Thermal Science and Technology, Vol.11, No.2, 2016, [https://doi.org/10.1299/jtst.2016jtst0029](https://doi.org/10.1299/jtst.2016jtst0029)
-18. Napoleon ENTERIA, Hideki YAMAGUCHI, Masato MIYATA, Takao SAWACHI, Yasuo KUWASAWA：Performance evaluation of the variable refrigerant flow (VRF) air-conditioning system subjected to partial and unbalanced thermal loadings, Journal of Thermal Science and Technology, Vol.11, No.1, 2016, [https://doi.org/10.1299/jtst.2016jtst0013](https://doi.org/10.1299/jtst.2016jtst0013)
-19. 宮田征門, 吉田治典, 安岡稔弘, 竹川忠克, 小林陽一, 金政秀, 天野雄一朗：季間蓄熱機能を有する空調システムのシミュレーションを利用したコミッショニング 第2報 運用開始後3年間に亘る運転最適化プロセス, 空気調和・衛生工学会論文集, No.218, pp.19-29, 2015, [https://doi.org/10.18948/shase.40.218_19](https://doi.org/10.18948/shase.40.218_19)
-20. 西澤繁毅, 宮田征門, 赤嶺嘉彦, 澤地孝男：改正建築省エネルギー基準に対応した日よけ効果係数算出ツールの開発, 日本建築学会技術報告集, 第21巻 第49号, pp.1111-1116, 2015, [https://doi.org/10.3130/aijt.21.1111](https://doi.org/10.3130/aijt.21.1111)
-21. 松下直幹, 李霽憲, 吉田健一, 赤司泰義, 住吉大輔, 宮田征門, 田中誠, 藤村昌弘：空調用熱源システムの部分負荷運転制御法の開発と導入効果の検証, 空気調和・衛生工学会論文集, No.164, pp.39-48, 2010. 11, [https://doi.org/10.18948/shase.35.164_39](https://doi.org/10.18948/shase.35.164_39)
-22. 山口弘雅, 吉田治典, 丹羽英治, 渡邊剛, 宮田征門, 小田久人, 塩谷正樹：コミッショニングのための冷却コイル特性実験とモデル精度の検証, 空気調和・衛生工学会論文集, pp.61-70, No.143, 2009. 2, [https://doi.org/10.18948/shase.34.143_61](https://doi.org/10.18948/shase.34.143_61)
-23. 金政秀, 安岡稔弘, 竹川忠克, 名倉義行, 小林陽一, 吉田治典, 宮田征門：季間蓄熱機能を有する空調システムのシミュレーションを利用したコミッショニング, 第1報 土壌蓄熱空調システムの開発と初期性能評価, 空気調和・衛生工学会論文集, No.149 , pp.1-9, 2009. 8, [https://doi.org/10.18948/shase.34.149_1](https://doi.org/10.18948/shase.34.149_1)
-24. 宮田征門, 吉田治典, 浅田昌彦, 岩田卓郎, 田邊陽一, 柳澤忠宏：実ESCOプロジェクトにおけるベースライン簡易補正手法の比較検討, 空気調和・衛生工学会論文集, pp.7-16, No.119, 2007. 2, [https://doi.org/10.18948/shase.32.119_7](https://doi.org/10.18948/shase.32.119_7)
-25. M. Miyata, H. Yoshida, M. Asada, T. Iwata, Y. Tanabe, T. Yanagisawa：Estimation of Energy Baseline by Simulation for On-going Commissioning and Energy Saving Retrofit, Journal of Harbin Institute of Technology, vol.13, pp.370-378, 2006. 11, [http://hdl.handle.net/1969.1/5355](http://hdl.handle.net/1969.1/5355)
-26. H. Yamaguchi, M. Miyata, H. Oda, M. Shioya, T. Watanabe, H. Niwa, H. Yoshida：Experimental Study of a Cooling Coil and the Validation of its Simulation Model for the Purpose of Commissioning, Journal of Harbin Institute of Technology, Vol. 13, pp.385-392, 2006. 11, [http://hdl.handle.net/1969.1/5334](http://hdl.handle.net/1969.1/5334)
-27. 宮田征門, 吉田治典, 浅田昌彦, 橋口士朗：コミッショニングのための複数VAVユニットの不具合検知・診断手法, 空気調和・衛生工学会論文集, pp.1-9, No.114, 2006. 9, [https://doi.org/10.18948/shase.31.114_1](https://doi.org/10.18948/shase.31.114_1)
-28. F. Wang, H. Yoshida, M. Miyata：Total Energy Consumption Model of Fan Subsystem Suitable for Continuous Commissioning, ASHRAE Transactions, Vol. 110, pp. 357-364, 2004, [https://pdfs.semanticscholar.org/8750/9a4fd999f93ead2e410b05d3cefbb75b8e4d.pdf](https://pdfs.semanticscholar.org/8750/9a4fd999f93ead2e410b05d3cefbb75b8e4d.pdf)
+2. 平島重敏, 西川祥子, 秋元孝之, 芹川真緒, 宮田征門: 窓ガラスの熱性能が非住宅建築物のオペレーショナルカーボンに与える影響の分析, 日本建築学会技術報告集, 2025年2月掲載予定
+3. 西川祥子, 平島重敏, 秋元孝之, 芹川真緒, 宮田征門: 窓ガラスの熱性能が住宅のオペレーショナルカーボンに与える影響の分析, 日本建築学会技術報告集, 2025年2月掲載予定
+4. 篠原里穂子, 山口容平, 宮田征門, 内田英明, 下田吉之: 省エネ基準申請データを用いた非住宅建築物省エネルギー基準引き上げによる外皮・設備設計仕様変化の推計, 日本建築学会環境系論文集, 第90巻, 第828号, pp.96-105, 2025.2, [https://doi.org/10.3130/aije.90.96](https://doi.org/10.3130/aije.90.96)
+5. Eisuke Togashia, Taiki Kobayashi, Hajime Ogata, Hiroyuki Hatada, Hisao Ayame, Katsuyuki Edahiro, Makoto Satoh, Masanari Ukai, Masashi Momota, Masato Miyata, Niccolo Giannetti, Sei Nagashima, Takahiro Ueno, Tomoya Katayama, Yohei Yamaguchi, Yuichiro Iio: Development of a variable refrigerant flow system emulator to host the second World Championship in Cybernetic Building Optimization, Journal of Building Performance Simulation, pp.1-30, 2024.5, [https://doi.org/10.1080/19401493.2024.2346528](https://doi.org/10.1080/19401493.2024.2346528)
+6. 芹川真緒, 辻丸のりえ, 佐藤誠, 住吉大輔, 宮田征門, 柳原隆司: 温暖地におけるビル用マルチエアコンの稼働実態調査, 空気調和・衛生工学会論文集, Vol.48, No.319, pp.33-40, 2023.10,
+7. 宮田征門: 非住宅建築物の外皮基準適合率と外皮設計仕様の実態分析, 日本建築学会技術報告集, 第28巻 第70号, pp.1307-1312, 2022.10, [https://doi.org/10.3130/aijt.28.1307](https://doi.org/10.3130/aijt.28.1307)
+8. 鳴川公彬, 山口容平, 下田吉之, 宮田征門: 省エネ基準適合性判定プログラムの入出力データを活用した非住宅建築物の外皮・設備設計の実態分析,（その２）ロジスティック回帰による規模・立地別の設計仕様の分析, 日本建築学会環境系論文集, 第87巻, 第797号, pp.448-459, 2022.7, [https://doi.org/10.3130/aije.87.448](https://doi.org/10.3130/aije.87.448)
+9.  Masato Miyata, Susumu Hirakawa: Analysis on building envelope and building service equipment design specification using the input and output data from the calculation program to confirm compliance with building energy code (part 1): Identification of the design specification for newly built offices in Japan according to the evaluation result of the building energy code, Japan Architectural Review (Translated Paper), pp.1–12, 2022.4, [https://doi.org/10.1002/2475-8876.12265](https://doi.org/10.1002/2475-8876.12265)
+10. 宮田征門: 共同住宅共用部の設備設計仕様の実態分析, 日本建築学会技術報告集, 第28巻 第68号, pp.314-319, 2022.2, [https://doi.org/10.3130/aijt.28.314](https://doi.org/10.3130/aijt.28.314)
+11. 芹川真緒, 佐藤誠, 宮田征門: 表面温度応答の応答係数の算出方法に係る検討, 日本建築学会技術報告集, 第28巻 第68号, pp.273-278, 2022.2, [https://doi.org/10.3130/aijt.28.273](https://doi.org/10.3130/aijt.28.273)
+12. 宮田征門: 省エネ基準適合性判定プログラムの入力データを活用した空調熱源・搬送システム設計仕様の実態分析, 空気調和・衛生工学会論文集, Vol.46, No.291, pp.39-46, 2021.6, [https://doi.org/10.18948/shase.46.291_39](https://doi.org/10.18948/shase.46.291_39)
+13. 宮田征門, 平川侑: 省エネ基準適合性判定プログラムの入出力データを活用した非住宅建築物の外皮・設備設計の実態分析, (その１)新築事務所ビルを対象とした省エネ基準評価結果別の標準的な設計仕様の解明, 日本建築学会環境系論文集, 第85巻, 第777号, pp.859-869, 2020.11, [https://doi.org/10.3130/aije.85.859](https://doi.org/10.3130/aije.85.859)
+14. Eisuke Togashi, Masato Miyata, Yoshihide Yamamoto: The first world championship in cybernetic building optimization, Journal of Building Performance Simulation, Volume 13, Issue 3, pp.391-408, 2020, [https://doi.org/10.1080/19401493.2020.1741685](https://doi.org/10.1080/19401493.2020.1741685)
+15. Eisuke Togashi, Masato Miyata: Development of building thermal environment emulator to evaluate the performance of the HVAC system operation, Journal of Building Performance Simulation, Volume 12, Issue 5, pp.663-684, 2019, [https://doi.org/10.1080/19401493.2019.1601259](https://doi.org/10.1080/19401493.2019.1601259)
+16. Masato Miyata：Energy efficiency evaluation of multiple split-system air conditioners with unbalanced load operation for building energy simulation, Earth and Environmental Science, Vol.238, 2019, [https://doi.org/10.1088/1755-1315/238/1/012082](https://doi.org/10.1088/1755-1315/238/1/012082)
+17. Fukada Ken, Masato Miyata：Validation of Unsteady CFD considering Thermal Load Fluctuation in Office Room, Earth and Environmental Science, Vol.238, 2019, [https://doi.org/10.1088/1755-1315/238/1/012033]()
+18. Natascha Milesi Ferretti, Masato Miyata, Oliver Baumann：A retrospective on the impact of Annex 40 and Annex 47 research on the international state of building commissioning, Energy and Buildings 158, p54–61, 2018, [https://doi.org/10.1016/j.enbuild.2017.08.031](https://doi.org/10.1016/j.enbuild.2017.08.031)
+19. Napoleon ENTERIA, Hideki YAMAGUCHI, Masato MIYATA, Takao SAWACHI, Yasuo KUWASAWA：Performance evaluation of the variable refrigerant flow (VRF) air-conditioning system during the heating-defrosting cyclic operation, Journal of Thermal Science and Technology, Vol.12, No.2, 2017, [https://doi.org/10.1299/jtst.2017jtst0035](https://doi.org/10.1299/jtst.2017jtst0035)
+20. Napoleon ENTERIA, Hideki YAMAGUCHI, Masato MIYATA, Takao SAWACHI, Yasuo KUWASAWA：Performance evaluation of the variable refrigerant flow (VRF) air-conditioning system subjected to partial loadings at different outdoor air temperatures, Journal of Thermal Science and Technology, Vol.11, No.2, 2016, [https://doi.org/10.1299/jtst.2016jtst0029](https://doi.org/10.1299/jtst.2016jtst0029)
+21. Napoleon ENTERIA, Hideki YAMAGUCHI, Masato MIYATA, Takao SAWACHI, Yasuo KUWASAWA：Performance evaluation of the variable refrigerant flow (VRF) air-conditioning system subjected to partial and unbalanced thermal loadings, Journal of Thermal Science and Technology, Vol.11, No.1, 2016, [https://doi.org/10.1299/jtst.2016jtst0013](https://doi.org/10.1299/jtst.2016jtst0013)
+22. 宮田征門, 吉田治典, 安岡稔弘, 竹川忠克, 小林陽一, 金政秀, 天野雄一朗：季間蓄熱機能を有する空調システムのシミュレーションを利用したコミッショニング 第2報 運用開始後3年間に亘る運転最適化プロセス, 空気調和・衛生工学会論文集, No.218, pp.19-29, 2015, [https://doi.org/10.18948/shase.40.218_19](https://doi.org/10.18948/shase.40.218_19)
+23. 西澤繁毅, 宮田征門, 赤嶺嘉彦, 澤地孝男：改正建築省エネルギー基準に対応した日よけ効果係数算出ツールの開発, 日本建築学会技術報告集, 第21巻 第49号, pp.1111-1116, 2015, [https://doi.org/10.3130/aijt.21.1111](https://doi.org/10.3130/aijt.21.1111)
+24. 松下直幹, 李霽憲, 吉田健一, 赤司泰義, 住吉大輔, 宮田征門, 田中誠, 藤村昌弘：空調用熱源システムの部分負荷運転制御法の開発と導入効果の検証, 空気調和・衛生工学会論文集, No.164, pp.39-48, 2010. 11, [https://doi.org/10.18948/shase.35.164_39](https://doi.org/10.18948/shase.35.164_39)
+25. 山口弘雅, 吉田治典, 丹羽英治, 渡邊剛, 宮田征門, 小田久人, 塩谷正樹：コミッショニングのための冷却コイル特性実験とモデル精度の検証, 空気調和・衛生工学会論文集, pp.61-70, No.143, 2009. 2, [https://doi.org/10.18948/shase.34.143_61](https://doi.org/10.18948/shase.34.143_61)
+26. 金政秀, 安岡稔弘, 竹川忠克, 名倉義行, 小林陽一, 吉田治典, 宮田征門：季間蓄熱機能を有する空調システムのシミュレーションを利用したコミッショニング, 第1報 土壌蓄熱空調システムの開発と初期性能評価, 空気調和・衛生工学会論文集, No.149 , pp.1-9, 2009. 8, [https://doi.org/10.18948/shase.34.149_1](https://doi.org/10.18948/shase.34.149_1)
+27. 宮田征門, 吉田治典, 浅田昌彦, 岩田卓郎, 田邊陽一, 柳澤忠宏：実ESCOプロジェクトにおけるベースライン簡易補正手法の比較検討, 空気調和・衛生工学会論文集, pp.7-16, No.119, 2007. 2, [https://doi.org/10.18948/shase.32.119_7](https://doi.org/10.18948/shase.32.119_7)
+28. M. Miyata, H. Yoshida, M. Asada, T. Iwata, Y. Tanabe, T. Yanagisawa：Estimation of Energy Baseline by Simulation for On-going Commissioning and Energy Saving Retrofit, Journal of Harbin Institute of Technology, vol.13, pp.370-378, 2006. 11, [http://hdl.handle.net/1969.1/5355](http://hdl.handle.net/1969.1/5355)
+29. H. Yamaguchi, M. Miyata, H. Oda, M. Shioya, T. Watanabe, H. Niwa, H. Yoshida：Experimental Study of a Cooling Coil and the Validation of its Simulation Model for the Purpose of Commissioning, Journal of Harbin Institute of Technology, Vol. 13, pp.385-392, 2006. 11, [http://hdl.handle.net/1969.1/5334](http://hdl.handle.net/1969.1/5334)
+30. 宮田征門, 吉田治典, 浅田昌彦, 橋口士朗：コミッショニングのための複数VAVユニットの不具合検知・診断手法, 空気調和・衛生工学会論文集, pp.1-9, No.114, 2006. 9, [https://doi.org/10.18948/shase.31.114_1](https://doi.org/10.18948/shase.31.114_1)
+31. F. Wang, H. Yoshida, M. Miyata：Total Energy Consumption Model of Fan Subsystem Suitable for Continuous Commissioning, ASHRAE Transactions, Vol. 110, pp. 357-364, 2004, [https://pdfs.semanticscholar.org/8750/9a4fd999f93ead2e410b05d3cefbb75b8e4d.pdf](https://pdfs.semanticscholar.org/8750/9a4fd999f93ead2e410b05d3cefbb75b8e4d.pdf)
 
 
 ### 国際会議論文（査読あり）
@@ -496,79 +497,80 @@
 1. 松下直幹, LEE Je Hyeon, 吉田健一, 赤司泰義, 住吉大輔, 宮田征門: 大学施設における空調用熱源システムのコミッショニング,都市・建築学研究 九州大学大学院人間環境学研究院紀要, No.16, pp.119-124, 2009
 
 ## 依頼/招待講演（業界団体等）
-1. 空気調和衛生工学会・北信越支部 技術講習会：非住宅建築物の省エネ基準・ZEB基準適合率の現状と今後の展望, 2024.12.10
-1. グリーン購入ネットワーク GPN再エネ電力利用拡大検討者向けセミナー：オフィスビル等の省エネ性能の動向, 2024.11.22
-1. 一般財団法人住宅・建築SGDs推進センター シンポジウム「The BEST Program スマートウェルネスとネットゼロ社会に向けたBESTの活用」：ホールライフカーボン算定におけるシミュレーションツールの役割, 2024.8.1
-2. 一般社団法人日本ガス協会「公共施設におけるガスZEB勉強会」：ZEBの普及に向けた動きと今後の展望, 2024.7.24
-3. BSCA 設立20周年記念シンポジウムin中部「ビル用マルチパッケージ型空調の適正な設計とコミッショニング」: 令和6年4月より始まる改正建築物省エネ法による規制強化 ～非住宅建築物の新基準に適合させるための外皮・設備設計仕様とは～, 2024.1.26
-4. 一般財団法人住宅・建築SGDs推進センター シンポジウム「非住宅建築物の熱源機器容量設計手法の再考」,個別分散空調の設計実態分析, 2023.11.6
-5. 一般財団法人住宅・建築SGDs推進センター オンライン講習会, ビッグデータ解析から分かる非住宅建築物の省エネ設計の実態と今後の動向, 2023.6.2
-6. 一般財団法人ベターリビング つくば建築試験研究センター 3室型恒温恒湿試験装置完成見学会講演会, パッケージエアコンのエネルギー消費性能評価の現状と展望, 2023.4.21
-7. 一般社団法人放射・輻射冷暖房協議会 第7回セミナー: ビッグデータ解析から分かる非住宅建築物の省エネ設計の実態と今後の動向, 2023.3.2, [http://www.archsj.jp/img/file49.pdf](http://www.archsj.jp/img/file49.pdf])
-8. 公益社団法人日本建築衛生管理教育センター 第50回建築物環境衛生管理全国大会 シンポジウム: ビッグデータ解析から分かる非住宅建築物の省エネ設計の実態と今後の動向, 2023.1.20
-9.  BSCA Cx事例シンポジウム「コミッショニングの推進を目指して」： 試験室におけるビル用マルチエアコンの実働特性の測定, 2022.12.7
-10. 日本建築センターセミナー・設備設計シリーズ（空調設備編）： エネルギー消費性能の評価, 2022.12.5
-11. 環境研究機関連絡会 第4回環境研究機関連絡会研究交流セミナー： ビッグデータを活用した建築物の脱炭素化に関する施策検討, 2022.12.1, [https://kankyorenrakukai.org/seminar_04/presentationppt/PP11NILIM.pdf](https://kankyorenrakukai.org/seminar_04/presentationppt/PP11NILIM.pdf)
-12. 日本建築学会第18回建築設備シンポジウム：省エネ基準申請データから分かる建築設備設計仕様の現状と今後, 2022.11.18
-13. 日本建築センターセミナー・設備設計シリーズ（空調設備編）： エネルギー消費性能の評価, 2022.3.24
-14. 政策研究大学院大学・建築研究所共催シンポジウム「省エネルギー基準の最新研究」：非住宅の省エネルギー性能の評価（新技術評価開発の動向を中心に）, 2020.2.7（東京）, [発表資料PDF](./pdf/PPT_20200207.pdf)
-15. 日本建築センターセミナー・設備設計シリーズ（空調設備編）： エネルギー消費性能の評価, 2019.10.30
-16. 建築とITのフォーラム 2019 建築フォーラム 人と建築の未来をデザインする -建築ピボット EXPO 2019- ：省エネルギー建築の現在と未来, 2019.10.9（東京）, [発表資料PDF](./pdf/PPT_20191009.pdf)
-17. グリーンビルディングフォーラム(GBF)-IBEC 第10回シンポジウム 2050年に向けた住宅・建築物のエネルギー政策：建築物のネットゼロ化に向けた国内外の建築規制・対策, 2019.8.29（東京）,[発表資料PDF](./pdf/PPT_20190829.pdf)
-18. 第53回空気調和・冷凍連合講演会ワークショップ「環境負荷の低減を目指した冷凍空調技術」：ZEB時代の建築空調負荷と これに対応した空調技術の必要性, 2019.4.19（東京）, [発表資料PDF](./pdf/PPT_20190419.pdf)
-19. 建築物省エネ法に関する算定ロジックと計算事例解説（一般財団法人建築環境・省エネルギー機構）, 2018.11.16（東京）, 2018.12.19（東京）
-20. 日本建築センターセミナー・設備設計シリーズ（空調設備編）： エネルギー消費性能の評価, 2018.11.22
-21. 第26回地中熱利用シンポジウム：建築物省エネルギー基準における地中熱利用ヒートポンプの評価法, 2018.3.14
-22. 第31回公衆衛生情報研究協議会研究会：適合義務化された建築物省エネルギー基準の現状と今後の展開, 2018.1.25
-23. 一般財団法人建築環境・省エネルギー機構 主催：平成27年度省エネルギー基準の「算定・判断方法に係る根拠・理論」の説明会, H27.7.17（東京）, H27.7.30（大阪）
-24. 放射(輻射)冷暖房協議会・ASHRAE JAPAN Chapter 共催セミナー：省エネ基準適合義務化の施行状況と今後のビジョン, 2017.9.11
-25. 長野県地中熱利用促進協議会：省エネ基準適合義務化の概要と地中熱ヒートポンプの評価法, 2017.6.21
-26. ENEX2017 地中熱セミナー：省エネ基準適合義務化の概要と地中熱ヒートポンプの評価法, 2017.2.17
-27. 中部地中熱利用促進協議会地中熱設計セミナー：省エネ基準適合義務化の概要と地中熱ヒートポンプの評価法, 2017.2.10
-28. 地中熱利用促進協会 地中熱利用にかかる省エネ基準説明会：省エネ基準適合義務化の概要と地中熱ヒートポンプの評価法, 2016.12.16
-29. 建築環境設計支援協会 CFDシンポジウム：建築物の省エネルギー基準と建築環境シミュレーション (エネルギーシミュレーション), 2016.5.18, 2016.11.30
-30. 平成27年度第2回地中熱利用シンポジウム：省エネ基準適合義務化の背景と地中熱への期待, 2016.3.10
-31. HVAC&R JAPAN 2016：いよいよ始まる建築物省エネ基準の適合義務化 ~ 建築確認申請における 設備機器の性能確認について ~, 2016.2.24
-32. 日本設備設計事務所協会 設備設計セミナー：新法「建築物省エネ基準」の概要 ~ 建築確認申請における性能判定について ~, 2015.10.7
-33. 一般社団法人関西ESCO協会 特別講演会：住宅・建築物の省エネ化に関する施策の最新情報と今後の展開, 2015.6.8
-34. 一般財団法人建築環境・省エネルギー機構 主催：平成26年度建築物の建築物の省エネルギー基準講習会, 2015.1.20（東京）, 2015.2.4（東京）, 2015.2.20（福岡）
-35. 一般財団法人建築環境・省エネルギー機構 主催：平成26年度省エネルギー基準の「算定・判断方法に係る根拠・理論」の説明会, 2014.9.25（東京）, 2014.10.3（大阪）
-36. 群馬県設備設計事務所協会 技術研修会：改正省エネルギー基準（非住宅建築物）の概要と今後の展開, 2014.3.7
-37. 空気調和・衛生工学会近畿支部一般講習会（平成25年度）：省エネルギー法・新たな建築物省エネ基準の本格運用に向けて, 2013.11.21
-38. 一般財団法人建築環境・省エネルギー機構 主催：平成25年度省エネルギー基準の「算定・判断方法に係る根拠・理論」の説明会, 2013.10.23（大阪）, 2013.10.30（東京）
-39. 空気調和・衛生工学会コミッショニングシンポジウム特別講演：省エネ基準の見直しの概要とコミッショニングの役割, 2013.8.9
-40. 空気調和・衛生工学会九州支部講習会'建築物の省エネルギーに関する施策と基準の最新動向'：非住宅建築物の省エネルギー基準の概要, 2013.2.27
-41. TSC21 オープンセミナー2012 vol.2 'エネルギー施策とマネジメントの動向'：建築物の省エネルギー施策の動向と新たな省エネルギー基準の概要, 2012.12.6
-42. 空気調和・衛生工学会近畿支部一般講習会（平成24年度）：建築物の省エネルギー施策の動向と新たな省エネルギー基準の概要,2012.12.4
-43. 建築設備技術者協会 講習会 '取り組んでみた省エネ手法'：ビルの新しい省エネルギー 判断基準の策定にむけて - 空調システムのエネルギー消費量 簡略計算法の概要, 2011.10.26
-44. 建築設備コミッショニング協会 東京講演会：ビルの新しい省エネルギー判断基準の策定に向けて, 2011.5.19
+1. 北九州設備設計監理協会 第1回建築物省エネ法・ZEBセミナー：非住宅建築物のZEB化（省エネ・創エネ）に関する動向並びに今後の展望, 2025.1.24
+2. 空気調和衛生工学会・北信越支部 技術講習会：非住宅建築物の省エネ基準・ZEB基準適合率の現状と今後の展望, 2024.12.10
+3. グリーン購入ネットワーク GPN再エネ電力利用拡大検討者向けセミナー：オフィスビル等の省エネ性能の動向, 2024.11.22
+4. 一般財団法人住宅・建築SGDs推進センター シンポジウム「The BEST Program スマートウェルネスとネットゼロ社会に向けたBESTの活用」：ホールライフカーボン算定におけるシミュレーションツールの役割, 2024.8.1
+5. 一般社団法人日本ガス協会「公共施設におけるガスZEB勉強会」：ZEBの普及に向けた動きと今後の展望, 2024.7.24
+6. BSCA 設立20周年記念シンポジウムin中部「ビル用マルチパッケージ型空調の適正な設計とコミッショニング」: 令和6年4月より始まる改正建築物省エネ法による規制強化 ～非住宅建築物の新基準に適合させるための外皮・設備設計仕様とは～, 2024.1.26
+7. 一般財団法人住宅・建築SGDs推進センター シンポジウム「非住宅建築物の熱源機器容量設計手法の再考」,個別分散空調の設計実態分析, 2023.11.6
+8. 一般財団法人住宅・建築SGDs推進センター オンライン講習会, ビッグデータ解析から分かる非住宅建築物の省エネ設計の実態と今後の動向, 2023.6.2
+9. 一般財団法人ベターリビング つくば建築試験研究センター 3室型恒温恒湿試験装置完成見学会講演会, パッケージエアコンのエネルギー消費性能評価の現状と展望, 2023.4.21
+10. 一般社団法人放射・輻射冷暖房協議会 第7回セミナー: ビッグデータ解析から分かる非住宅建築物の省エネ設計の実態と今後の動向, 2023.3.2, [http://www.archsj.jp/img/file49.pdf](http://www.archsj.jp/img/file49.pdf])
+11. 公益社団法人日本建築衛生管理教育センター 第50回建築物環境衛生管理全国大会 シンポジウム: ビッグデータ解析から分かる非住宅建築物の省エネ設計の実態と今後の動向, 2023.1.20
+12. BSCA Cx事例シンポジウム「コミッショニングの推進を目指して」： 試験室におけるビル用マルチエアコンの実働特性の測定, 2022.12.7
+13. 日本建築センターセミナー・設備設計シリーズ（空調設備編）： エネルギー消費性能の評価, 2022.12.5
+14. 環境研究機関連絡会 第4回環境研究機関連絡会研究交流セミナー： ビッグデータを活用した建築物の脱炭素化に関する施策検討, 2022.12.1, [https://kankyorenrakukai.org/seminar_04/presentationppt/PP11NILIM.pdf](https://kankyorenrakukai.org/seminar_04/presentationppt/PP11NILIM.pdf)
+15. 日本建築学会第18回建築設備シンポジウム：省エネ基準申請データから分かる建築設備設計仕様の現状と今後, 2022.11.18
+16. 日本建築センターセミナー・設備設計シリーズ（空調設備編）： エネルギー消費性能の評価, 2022.3.24
+17. 政策研究大学院大学・建築研究所共催シンポジウム「省エネルギー基準の最新研究」：非住宅の省エネルギー性能の評価（新技術評価開発の動向を中心に）, 2020.2.7（東京）, [発表資料PDF](./pdf/PPT_20200207.pdf)
+18. 日本建築センターセミナー・設備設計シリーズ（空調設備編）： エネルギー消費性能の評価, 2019.10.30
+19. 建築とITのフォーラム 2019 建築フォーラム 人と建築の未来をデザインする -建築ピボット EXPO 2019- ：省エネルギー建築の現在と未来, 2019.10.9（東京）, [発表資料PDF](./pdf/PPT_20191009.pdf)
+20. グリーンビルディングフォーラム(GBF)-IBEC 第10回シンポジウム 2050年に向けた住宅・建築物のエネルギー政策：建築物のネットゼロ化に向けた国内外の建築規制・対策, 2019.8.29（東京）,[発表資料PDF](./pdf/PPT_20190829.pdf)
+21. 第53回空気調和・冷凍連合講演会ワークショップ「環境負荷の低減を目指した冷凍空調技術」：ZEB時代の建築空調負荷と これに対応した空調技術の必要性, 2019.4.19（東京）, [発表資料PDF](./pdf/PPT_20190419.pdf)
+22. 建築物省エネ法に関する算定ロジックと計算事例解説（一般財団法人建築環境・省エネルギー機構）, 2018.11.16（東京）, 2018.12.19（東京）
+23. 日本建築センターセミナー・設備設計シリーズ（空調設備編）： エネルギー消費性能の評価, 2018.11.22
+24. 第26回地中熱利用シンポジウム：建築物省エネルギー基準における地中熱利用ヒートポンプの評価法, 2018.3.14
+25. 第31回公衆衛生情報研究協議会研究会：適合義務化された建築物省エネルギー基準の現状と今後の展開, 2018.1.25
+26. 一般財団法人建築環境・省エネルギー機構 主催：平成27年度省エネルギー基準の「算定・判断方法に係る根拠・理論」の説明会, H27.7.17（東京）, H27.7.30（大阪）
+27. 放射(輻射)冷暖房協議会・ASHRAE JAPAN Chapter 共催セミナー：省エネ基準適合義務化の施行状況と今後のビジョン, 2017.9.11
+28. 長野県地中熱利用促進協議会：省エネ基準適合義務化の概要と地中熱ヒートポンプの評価法, 2017.6.21
+29. ENEX2017 地中熱セミナー：省エネ基準適合義務化の概要と地中熱ヒートポンプの評価法, 2017.2.17
+30. 中部地中熱利用促進協議会地中熱設計セミナー：省エネ基準適合義務化の概要と地中熱ヒートポンプの評価法, 2017.2.10
+31. 地中熱利用促進協会 地中熱利用にかかる省エネ基準説明会：省エネ基準適合義務化の概要と地中熱ヒートポンプの評価法, 2016.12.16
+32. 建築環境設計支援協会 CFDシンポジウム：建築物の省エネルギー基準と建築環境シミュレーション (エネルギーシミュレーション), 2016.5.18, 2016.11.30
+33. 平成27年度第2回地中熱利用シンポジウム：省エネ基準適合義務化の背景と地中熱への期待, 2016.3.10
+34. HVAC&R JAPAN 2016：いよいよ始まる建築物省エネ基準の適合義務化 ~ 建築確認申請における 設備機器の性能確認について ~, 2016.2.24
+35. 日本設備設計事務所協会 設備設計セミナー：新法「建築物省エネ基準」の概要 ~ 建築確認申請における性能判定について ~, 2015.10.7
+36. 一般社団法人関西ESCO協会 特別講演会：住宅・建築物の省エネ化に関する施策の最新情報と今後の展開, 2015.6.8
+37. 一般財団法人建築環境・省エネルギー機構 主催：平成26年度建築物の建築物の省エネルギー基準講習会, 2015.1.20（東京）, 2015.2.4（東京）, 2015.2.20（福岡）
+38. 一般財団法人建築環境・省エネルギー機構 主催：平成26年度省エネルギー基準の「算定・判断方法に係る根拠・理論」の説明会, 2014.9.25（東京）, 2014.10.3（大阪）
+39. 群馬県設備設計事務所協会 技術研修会：改正省エネルギー基準（非住宅建築物）の概要と今後の展開, 2014.3.7
+40. 空気調和・衛生工学会近畿支部一般講習会（平成25年度）：省エネルギー法・新たな建築物省エネ基準の本格運用に向けて, 2013.11.21
+41. 一般財団法人建築環境・省エネルギー機構 主催：平成25年度省エネルギー基準の「算定・判断方法に係る根拠・理論」の説明会, 2013.10.23（大阪）, 2013.10.30（東京）
+42. 空気調和・衛生工学会コミッショニングシンポジウム特別講演：省エネ基準の見直しの概要とコミッショニングの役割, 2013.8.9
+43. 空気調和・衛生工学会九州支部講習会'建築物の省エネルギーに関する施策と基準の最新動向'：非住宅建築物の省エネルギー基準の概要, 2013.2.27
+44. TSC21 オープンセミナー2012 vol.2 'エネルギー施策とマネジメントの動向'：建築物の省エネルギー施策の動向と新たな省エネルギー基準の概要, 2012.12.6
+45. 空気調和・衛生工学会近畿支部一般講習会（平成24年度）：建築物の省エネルギー施策の動向と新たな省エネルギー基準の概要,2012.12.4
+46. 建築設備技術者協会 講習会 '取り組んでみた省エネ手法'：ビルの新しい省エネルギー 判断基準の策定にむけて - 空調システムのエネルギー消費量 簡略計算法の概要, 2011.10.26
+47. 建築設備コミッショニング協会 東京講演会：ビルの新しい省エネルギー判断基準の策定に向けて, 2011.5.19
 
 ## 講義（教育機関、市民会議等）
 1. 芝浦工業大学 環境・都市基礎演習：日本における非住宅建築物の省エネルギー化施策の最新動向, 2024.11.25
-1. つくば市立並木小学校 つくば科学出前レクチャー（小学２年生）: 今日からやろう！お家や学校でできるエコアクション, 2024.7.17
-1. つくば市立九重小学校 つくば科学出前レクチャー（小学２年生）: 今日からやろう！お家や学校でできるエコアクション, 2023.12.4
-1. 芝浦工業大学 環境・都市基礎演習：日本における非住宅建築物の省エネルギー化施策の最新動向, 2023.11.30
-1. つくば市 気候市民会議つくば第3回会議「住まい・建物」, 非住宅建築物の省エネ化・カーボンニュートラル化, 2023.10.15, [つくば市ホームページ](https://www.city.tsukuba.lg.jp/soshikikarasagasu/seikatsukankyobukankyoseisakuka/gyomuannai/1/1/CAT/16923.html)
-1. つくば市立並木小学校 つくば科学出前レクチャー（小学２年生）: たてもの（おうち、学校）でつかうエネルギー, 2023.10.11
-1. つくば市立大曽根小学校 つくば市R8 アイデアソン実証事業 地域交流会（大曽根・花畑・筑穂マスター）: たてものでつかうエネルギー, 2022.12.10
-1. 神戸大学 熱環境計画A： 建築物のカーボンニュートラル化に関する政策検討の最前線 クラウドを活用した省エネ性能評価とビッグデータ収集, 2022.11.21
-1. イオンリテール イオン下妻店（出前講座） ：たてものでつかう エネルギー, 2018.8.6
-1. 東京大学 環境調整工学特論 2018年度： 建築物のエネルギー消費性能の定量的評価, 2018.6.26
-1. 東京大学 建築環境特論 2017年度：究極の省エネルギー建築物を設計するために必要な3つのこと, 2017.5.12
-1. 東京大学 建築環境特論 2016年度：究極の省エネルギー建築物を設計するために必要な3つのこと, 2016.5.13
-1. 東京大学 建築環境特論 2015年度：究極の省エネルギー建築物を設計するために必要な3つのこと, 2015.7.10,
-1. 工学院大学 建築学部まちづくり学科 建築学特別講義 2015年度：究極の省エネルギー建築物を設計するために必要な3つのこと, 2015.6.5
-1. つくばエキスポセンター ミニ講演：住まいで使うエネルギーについて, 2013.11.23
-1. つくば市立手代木南小学校（出前講座）：住まいで使うエネルギー, 2013.7.26
+2. つくば市立並木小学校 つくば科学出前レクチャー（小学２年生）: 今日からやろう！お家や学校でできるエコアクション, 2024.7.17
+3. つくば市立九重小学校 つくば科学出前レクチャー（小学２年生）: 今日からやろう！お家や学校でできるエコアクション, 2023.12.4
+4. 芝浦工業大学 環境・都市基礎演習：日本における非住宅建築物の省エネルギー化施策の最新動向, 2023.11.30
+5. つくば市 気候市民会議つくば第3回会議「住まい・建物」, 非住宅建築物の省エネ化・カーボンニュートラル化, 2023.10.15, [つくば市ホームページ](https://www.city.tsukuba.lg.jp/soshikikarasagasu/seikatsukankyobukankyoseisakuka/gyomuannai/1/1/CAT/16923.html)
+6. つくば市立並木小学校 つくば科学出前レクチャー（小学２年生）: たてもの（おうち、学校）でつかうエネルギー, 2023.10.11
+7. つくば市立大曽根小学校 つくば市R8 アイデアソン実証事業 地域交流会（大曽根・花畑・筑穂マスター）: たてものでつかうエネルギー, 2022.12.10
+8. 神戸大学 熱環境計画A： 建築物のカーボンニュートラル化に関する政策検討の最前線 クラウドを活用した省エネ性能評価とビッグデータ収集, 2022.11.21
+9.  イオンリテール イオン下妻店（出前講座） ：たてものでつかう エネルギー, 2018.8.6
+10. 東京大学 環境調整工学特論 2018年度： 建築物のエネルギー消費性能の定量的評価, 2018.6.26
+11. 東京大学 建築環境特論 2017年度：究極の省エネルギー建築物を設計するために必要な3つのこと, 2017.5.12
+12. 東京大学 建築環境特論 2016年度：究極の省エネルギー建築物を設計するために必要な3つのこと, 2016.5.13
+13. 東京大学 建築環境特論 2015年度：究極の省エネルギー建築物を設計するために必要な3つのこと, 2015.7.10,
+14. 工学院大学 建築学部まちづくり学科 建築学特別講義 2015年度：究極の省エネルギー建築物を設計するために必要な3つのこと, 2015.6.5
+15. つくばエキスポセンター ミニ講演：住まいで使うエネルギーについて, 2013.11.23
+16. つくば市立手代木南小学校（出前講座）：住まいで使うエネルギー, 2013.7.26
 
 ## 基調講演・講義（国際ワークショップ等）
 1. ASim2024 Plenary "Challenges and Perspectives for the Futures": Advancing Building Energy Regulations in Japan Through Energy Simulation, 2024.12.10
-1. ASEAN Japan Energy Efficiency Partnership, Energy Conservation Workshop (ECAP33): Building Energy Code for Commercial Buildings in Japan, 2024.10.28
-2. ASEAN Japan Energy Efficiency Partnership, Energy Conservation Workshop (ECAP32): Building Energy Standard for Commercial Buildings in Japan, 2023.12.11
-3. AOTS（海外産業人材育成協会）, The Workshop on Dissemination and Promotion of ZEB and ZEB Family Concept, Features and Characteristics of Building Energy Standards for Commercial Buildings, 2019.1.30
-4. AOTS（海外産業人材育成協会）, Dissemination and Promotion of ZEB and ZEB Family concept: Features and Characteristics of Building Energy Standards for Commercial Buildings, 2017.12.20
-5. ASEAN ECAP9 SEforALL Workshop: Features and Characteristics of New Building Energy Standards of Japan, 2017.2.14
-6. APEC Workshop on Net Zero Energy Building: New Energy Standard for Commercial Buildings in Japan and its application to NZEB design, 2013.10.30
+2. ASEAN Japan Energy Efficiency Partnership, Energy Conservation Workshop (ECAP33): Building Energy Code for Commercial Buildings in Japan, 2024.10.28
+3. ASEAN Japan Energy Efficiency Partnership, Energy Conservation Workshop (ECAP32): Building Energy Standard for Commercial Buildings in Japan, 2023.12.11
+4. AOTS（海外産業人材育成協会）, The Workshop on Dissemination and Promotion of ZEB and ZEB Family Concept, Features and Characteristics of Building Energy Standards for Commercial Buildings, 2019.1.30
+5. AOTS（海外産業人材育成協会）, Dissemination and Promotion of ZEB and ZEB Family concept: Features and Characteristics of Building Energy Standards for Commercial Buildings, 2017.12.20
+6. ASEAN ECAP9 SEforALL Workshop: Features and Characteristics of New Building Energy Standards of Japan, 2017.2.14
+7. APEC Workshop on Net Zero Energy Building: New Energy Standard for Commercial Buildings in Japan and its application to NZEB design, 2013.10.30
 
 ## 記者発表
 1. オフィスビル等の省エネ性能に関する最新調査結果を公表～「ZEB 基準の水準」の達成率は19.4% ～, 2024.2.19, [https://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20240219.pdf](https://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20240219.pdf)
