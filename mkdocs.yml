@@ -1,5 +1,6 @@
 site_name: Masato Miyata (宮田 征門)
 site_description: 宮田征門の履歴書です。
+site_url: https://builelib.net/CV/
 
 theme:
   name: material
@@ -12,21 +13,28 @@ theme:
       primary: teal
       accent: red
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
       primary: teal
       accent: red
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-4
         name: Switch to light mode
   features:
     - toc.integrate     # 目次を右側ではなく、ページ内に表示
     - navigation.expand   # サイドバーのナビゲーションを展開
     - navigation.instant  # ページ遷移を高速化
+    - navigation.top
   font:
     text: Roboto       # 本文用フォント
     code: Roboto Mono  # コードブロック用フォント
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/MasatoMiyata
+  generator: false
 
 extra_css:
   - assets/custom.css
@@ -45,4 +53,4 @@ markdown_extensions:
       noclasses: true
       
 # Copyright
-copyright: 'Copyright © 2019 - 2024 : Masato Miyata'
+copyright: 'Copyright© 2019-2025 : Masato Miyata'
