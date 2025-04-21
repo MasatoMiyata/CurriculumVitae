@@ -450,6 +450,7 @@
 
 
 ### 公開研究資料（主たる執筆者）
+1. 国総研資料第1318号： 非住宅建築物の外皮・設備設計仕様とエネルギー消費性能の実態調査 - 省エネ基準適合性判定プログラムの入出力データ(2023年度)の分析 -, R06.01, [http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1318.htm](http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1318.htm)
 1. 国総研資料第1269号： 非住宅建築物の外皮・設備設計仕様とエネルギー消費性能の実態調査 - 省エネ基準適合性判定プログラムの入出力データ(2022年度)の分析 -, R06.01, [http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1269.htm](http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1269.htm)
 1. 国総研資料第1254号：非住宅建築物の省エネ基準適合率と外皮・設備設計仕様の実態調査 - 2018～2021 年度の省エネ基準申請データの統合分析 -, R05.8, [http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1254.htm](http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1254.htm)
 1. 国総研資料第1229号： 非住宅建築物の外皮・設備設計仕様とエネルギー消費性能の実態調査 - 省エネ基準適合性判定プログラムの入出力データ(2021年度)の分析 -, R04.10, [http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1229.htm](http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1229.htm)
@@ -577,12 +578,13 @@
 7. APEC Workshop on Net Zero Energy Building: New Energy Standard for Commercial Buildings in Japan and its application to NZEB design, 2013.10.30
 
 ## 記者発表
-1. オフィスビル等の省エネ性能に関する最新調査結果を公表～「ZEB 基準の水準」の達成率は19.4% ～, 2024.2.19, [https://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20240219.pdf](https://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20240219.pdf)
-1. 2024年の省エネ基準2割強化に向けて設計支援情報を提供 ～オフィスビル等の省エネ性能の分析結果(過去４年分)を公表～, 2023.8.29, [http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20230829.pdf](http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20230829.pdf)
-1. オフィスビル等の省エネ性能に関する最新調査結果を公表 ～建築物の脱炭素化に関する施策検討を支援～, 2022.11.1, [http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20221101.pdf](http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20221101.pdf)
-1. オフィスビル等の省エネ性能に関する最新調査結果を公表 ～脱炭素社会の実現に向けて実態を踏まえた検討が可能に～, 2022.3.10, [http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20220310_1.pdf](http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20220310_1.pdf)
-1. オフィスビル等の省エネ性能等の調査結果を公表 ～省エネ施策立案や設計実務に活用可能な情報を提供～, 2021.3.3, [http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20210303.pdf](http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20210303.pdf)
-1. 「第2回建物性能シミュレーションに関するアジア地域の国際会議」で最優秀論文賞を受賞しました, 2014.12.16, [http://www.nilim.go.jp/lab/icg/kokusaikaigi_sim/jyusyou.pdf](http://www.nilim.go.jp/lab/icg/kokusaikaigi_sim/jyusyou.pdf])
+1. オフィスビル等の省エネ性能に関する最新調査結果を公表 ～大規模事務所等におけるZEB基準の達成率が大きく向上～, 2025.4.14, [https://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20250414.pdf](https://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20250414.pdf)
+2. オフィスビル等の省エネ性能に関する最新調査結果を公表～「ZEB 基準の水準」の達成率は19.4% ～, 2024.2.19, [https://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20240219.pdf](https://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20240219.pdf)
+3. 2024年の省エネ基準2割強化に向けて設計支援情報を提供 ～オフィスビル等の省エネ性能の分析結果(過去４年分)を公表～, 2023.8.29, [http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20230829.pdf](http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20230829.pdf)
+4. オフィスビル等の省エネ性能に関する最新調査結果を公表 ～建築物の脱炭素化に関する施策検討を支援～, 2022.11.1, [http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20221101.pdf](http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20221101.pdf)
+5. オフィスビル等の省エネ性能に関する最新調査結果を公表 ～脱炭素社会の実現に向けて実態を踏まえた検討が可能に～, 2022.3.10, [http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20220310_1.pdf](http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20220310_1.pdf)
+6. オフィスビル等の省エネ性能等の調査結果を公表 ～省エネ施策立案や設計実務に活用可能な情報を提供～, 2021.3.3, [http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20210303.pdf](http://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20210303.pdf)
+7. 「第2回建物性能シミュレーションに関するアジア地域の国際会議」で最優秀論文賞を受賞しました, 2014.12.16, [http://www.nilim.go.jp/lab/icg/kokusaikaigi_sim/jyusyou.pdf](http://www.nilim.go.jp/lab/icg/kokusaikaigi_sim/jyusyou.pdf])
 
 ## 報道
 1. 清水建設: AIでZEBの設計業務を代替！～設計業務の効率化と高度化という背反する課題を解決へ～, 2023.08.21, [https://www.shimz.co.jp/company/about/news-release/2023/2023023.html](https://www.shimz.co.jp/company/about/news-release/2023/2023023.html)
