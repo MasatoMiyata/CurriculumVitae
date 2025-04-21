@@ -450,7 +450,7 @@
 
 
 ### 公開研究資料（主たる執筆者）
-1. 国総研資料第1318号： 非住宅建築物の外皮・設備設計仕様とエネルギー消費性能の実態調査 - 省エネ基準適合性判定プログラムの入出力データ(2023年度)の分析 -, R06.01, [http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1318.htm](http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1318.htm)
+1. 国総研資料第1318号： 非住宅建築物の外皮・設備設計仕様とエネルギー消費性能の実態調査 - 省エネ基準適合性判定プログラムの入出力データ(2023年度)の分析 -, R07.04, [http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1318.htm](http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1318.htm)
 1. 国総研資料第1269号： 非住宅建築物の外皮・設備設計仕様とエネルギー消費性能の実態調査 - 省エネ基準適合性判定プログラムの入出力データ(2022年度)の分析 -, R06.01, [http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1269.htm](http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1269.htm)
 1. 国総研資料第1254号：非住宅建築物の省エネ基準適合率と外皮・設備設計仕様の実態調査 - 2018～2021 年度の省エネ基準申請データの統合分析 -, R05.8, [http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1254.htm](http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1254.htm)
 1. 国総研資料第1229号： 非住宅建築物の外皮・設備設計仕様とエネルギー消費性能の実態調査 - 省エネ基準適合性判定プログラムの入出力データ(2021年度)の分析 -, R04.10, [http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1229.htm](http://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1229.htm)
