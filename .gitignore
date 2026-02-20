@@ -1,3 +1,7 @@
 memo.md
 .old_asciidoc/
 .vscode/
+.venv/
+uv.lock
+.python-version
+pyproject.toml
