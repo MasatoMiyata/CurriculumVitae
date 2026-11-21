@@ -20,7 +20,7 @@
 ## 主な研究テーマ
 * 非住宅建築物のエネルギーシミュレーションの開発
     * Builelib: Building Energy-modeling Library の開発 : [Builelib](https://builelib.net/)
-    * pyHASP の開発 : [pyHASP](https://github.com/MasatoMiyata/pyHASP)
+    * 動的負荷計算ソフト pyHASP の開発 
     * AIを活用したビルエネルギーモデリング支援技術の開発
 * 建築設備システムの省エネルギー
     * 非住宅建築物の省エネルギー基準のための一次エネルギー消費量の計算手法の開発
@@ -97,6 +97,7 @@
 
 
 ### 国際会議論文（査読あり）
+1. Masato Miyata, Yusuke Arai: Development of an LLM-Integrated Energy-Efficient Design Support Tool Using a Large-Scale Building Specification Dataset, The 6th Asia Conference of International Building Performance Simulation Association 2026, 2026.11
 1. Masato Miyata, Yasuhiro Miki, Shigeki Nishizawa: ZEB Retrofit Planning Methodology for Existing Office Buildings Using Building Energy Simulation, Building Simulation 2025, 2025.8
 1. Funa Shibahara, Kozo Takase, Tatsuhiko Nakao, Nozomu Yoshizawa, Koichiro Saito, Makoto Satoh, Yoshihiko Akamine, Shigeki Nishizawa, Keiichiro Taniguchi, Masato Miyata: Evaluation of the solar shading of various combinations of shading materials and blinds, The 5th Asia Conference of International Building Performance Simulation Association 2024, 2024.12
 1. Masato Miyata, Yasuhiro Miki, Shigeki Nishizawa: ZEB Retrofit Planning Methodology for Existing Office Buildings Using Building Energy Simulation, The 5th Asia Conference of International Building Performance Simulation Association 2024, 2024.12
@@ -596,6 +597,7 @@
 51. 建築設備コミッショニング協会 東京講演会：ビルの新しい省エネルギー判断基準の策定に向けて, 2011.5.19
 
 ## 講義（教育機関、市民会議等）
+1. あすか倶楽部：意外と知らない、住宅やビルで使われるエネルギー ～ 暮らしを支えるエネルギーと省エネの工夫 ～, 第259回定例会, 2026.11.21
 1. つくば市立吾妻中学校（中学１年生）：つくばスタイル科「私たちの学校環境改善プロジェクト」～調査データの活用方法～, 2026.6.22
 2. つくば科学出前レクチャー（小学２年生）: 今日からやろう！お家や学校でできるエコアクション, 2025.9.12
 3. 芝浦工業大学 環境・都市基礎演習：日本における非住宅建築物の省エネルギー化施策の最新動向, 2025.11.17
@@ -623,15 +625,17 @@
 25. つくば市立手代木南小学校（出前講座）：住まいで使うエネルギー, 2013.7.26
 
 ## 基調講演・講義（国際ワークショップ等）
-1. Toward Zero Energy Buildings in Indonesia, Standard Japanese Simulation System for ZEB (WEBPRO) and Analysis of the Accumulated Data, 2025.7.23
-2. JICA Jordan ZEB ZEH Training Tour Program, Building Energy Code for Commercial Buildings in Japan, 2025.7.10
-3. ASim2024 Plenary "Challenges and Perspectives for the Futures": Advancing Building Energy Regulations in Japan Through Energy Simulation, 2024.12.10
-4. ASEAN Japan Energy Efficiency Partnership, Energy Conservation Workshop (ECAP33): Building Energy Code for Commercial Buildings in Japan, 2024.10.28
-5. ASEAN Japan Energy Efficiency Partnership, Energy Conservation Workshop (ECAP32): Building Energy Standard for Commercial Buildings in Japan, 2023.12.11
-6. AOTS（海外産業人材育成協会）, The Workshop on Dissemination and Promotion of ZEB and ZEB Family Concept, Features and Characteristics of Building Energy Standards for Commercial Buildings, 2019.1.30
-7. AOTS（海外産業人材育成協会）, Dissemination and Promotion of ZEB and ZEB Family concept: Features and Characteristics of Building Energy Standards for Commercial Buildings, 2017.12.20
-8. ASEAN ECAP9 SEforALL Workshop: Features and Characteristics of New Building Energy Standards of Japan, 2017.2.14
-9. APEC Workshop on Net Zero Energy Building: New Energy Standard for Commercial Buildings in Japan and its application to NZEB design, 2013.10.30
+1. Asim2026 Workshop, Zero Energy Building Trends in Asian Countries: Advancing ZEB in Japan: Building Energy Code and Life-Cycle Carbon Assessment, 2026.11.18
+1. BEC IN16: Energy Performance Simulation Program for Building Energy Code Compliance in Japan, 2026.10.29
+2. Toward Zero Energy Buildings in Indonesia, Standard Japanese Simulation System for ZEB (WEBPRO) and Analysis of the Accumulated Data, 2025.7.23
+3. JICA Jordan ZEB ZEH Training Tour Program, Building Energy Code for Commercial Buildings in Japan, 2025.7.10
+4. ASim2024 Plenary "Challenges and Perspectives for the Futures": Advancing Building Energy Regulations in Japan Through Energy Simulation, 2024.12.10
+5. ASEAN Japan Energy Efficiency Partnership, Energy Conservation Workshop (ECAP33): Building Energy Code for Commercial Buildings in Japan, 2024.10.28
+6. ASEAN Japan Energy Efficiency Partnership, Energy Conservation Workshop (ECAP32): Building Energy Standard for Commercial Buildings in Japan, 2023.12.11
+7. AOTS（海外産業人材育成協会）, The Workshop on Dissemination and Promotion of ZEB and ZEB Family Concept, Features and Characteristics of Building Energy Standards for Commercial Buildings, 2019.1.30
+8. AOTS（海外産業人材育成協会）, Dissemination and Promotion of ZEB and ZEB Family concept: Features and Characteristics of Building Energy Standards for Commercial Buildings, 2017.12.20
+9. ASEAN ECAP9 SEforALL Workshop: Features and Characteristics of New Building Energy Standards of Japan, 2017.2.14
+10. APEC Workshop on Net Zero Energy Building: New Energy Standard for Commercial Buildings in Japan and its application to NZEB design, 2013.10.30
 
 ## 記者発表
 1. オフィスビル等の省エネ性能に関する最新調査結果を公表. ～基準強化を受け、大規模建築物の省エネ性能が大幅に向上～, 2026.1.28, [https://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20260128.pdf](https://www.nilim.go.jp/lab/bcg/kisya/journal/kisya20260128.pdf)
